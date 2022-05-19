@@ -1,3 +1,3 @@
 Vue JS -  CRM система
 
-vue-crm-582f7.web.app
+https://vue-crm-582f7.web.app/
